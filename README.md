@@ -1,39 +1,35 @@
-# LeapBot (by LeapScholar) MVP & GTM Strategy
+# Zepto Case Study
 
-## Minimum Viable Product (MVP) for LeapBot
+## Overview
 
-LeapBot, the AI-powered chatbot by LeapScholar, streamlines global education for students by optimizing the university selection process, offering community support, consultancy, and visa assistance.
-
-## Go-to-Market Strategy (GTM) for LeapBot
-
-LeapBot's GTM strategy involves leveraging LeapScholar's social media presence, creating engaging content, collaborating with influencers, and targeting relevant groups. The product launch plan includes informative campaigns, phased rollout, and post-launch activities such as feedback integration, onboarding, and ongoing engagement through webinars and workshops.
+The Zepto Case Study delves into the challenges encountered by Zepto within a segment that exhibits indications of financial loss. Through an examination of both the product and market dynamics, this case study endeavors to offer insights into how Zepto can transition to profitability within this segment. It explores various strategies and opportunities available to Zepto, aiming to identify avenues for overcoming existing market challenges and establishing a sustainable and lucrative business model.
 
 ## Contents
 
 1. **Introduction**
-   - Overview of LeapBot and its purpose.
-   - Importance of an MVP and GTM strategy in product success.
+   - Overview of the problem statement: Challenges faced by Zepto in a loss-making segment.
+   - Purpose of the Zepto Case Study.
 
-2. **MVP Features**
-   - University selection optimization.
-   - Community support and consultancy.
-   - Visa assistance.
+2. **Analysis**
+   - **Product Evaluation**
+     - Examination of Zepto's product offerings and their alignment with market needs.
+   - **Market Conditions**
+     - Analysis of the current market landscape and its impact on Zepto's profitability.
+   - **Challenges Identification**
+     - Identification and assessment of the specific challenges hindering Zepto's success in the segment.
 
-3. **GTM Strategy Components**
-   - Leveraging social media presence.
-   - Creating engaging content.
-   - Collaborating with influencers.
-   - Targeting relevant groups.
+3. **Strategies for Profitability**
+   - **Market Positioning**
+     - Recommendations for refining Zepto's positioning within the segment.
+   - **Product Enhancement**
+     - Strategies for improving Zepto's product to better meet customer demands and increase competitiveness.
+   - **Revenue Generation**
+     - Exploration of alternative revenue streams and monetization strategies.
 
-4. **Product Launch Plan**
-   - Informative campaigns.
-   - Phased rollout.
-   - Post-launch activities:
-     - Feedback integration.
-     - Onboarding.
-     - Ongoing engagement through webinars and workshops.
+4. **Opportunities**
+   - Identification of potential growth opportunities and untapped market segments for Zepto.
 
-## Conclusion
+5. **Conclusion**
 
-LeapBot by LeapScholar aims to simplify the global education process for students. The MVP focuses on key features that provide immediate value, while the GTM strategy ensures effective market penetration and sustained engagement.
+   - Summary of key findings and recommendations for Zepto to achieve profitability in the identified segment.
 
